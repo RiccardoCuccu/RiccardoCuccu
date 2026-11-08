@@ -23,7 +23,7 @@ Currently I'm:
 
 - 🧠 Building **[HardwareifAI](https://github.com/RiccardoCuccu/HardwareifAI)**, a personal side project: an open-source curriculum for AI-accelerator hardware design
 - 🤖 Using **AI professionally and smartly**: agents, workflow automation and an AI-maintained personal knowledge base that does the tedious work for me
-- 🐍 Automating everyday tasks with **Python**
+- 🐍 Automating everyday tasks with **Python** and **n8n**
 
 ---
 
